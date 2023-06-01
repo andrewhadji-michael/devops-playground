@@ -7,7 +7,7 @@ Thank you for taking the time to read this assessment. This repo simulates a pro
 - Testing
 - Cloud providers and cloud-native solutions
 
-## Setup
+### Setup
 
 ### Prerequisites
 - Kubernetes 1.19+ (Tested with Docker Desktop)
